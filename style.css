@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+div {
+    width: 60vw;
+    margin-inline: auto;
+    margin: 50px auto;
+    padding: 12px 0 12px 14px;
+}
+
+.blue {
+    border-left: 4px solid rgb(0, 191, 255);
+    background-color: rgb(230, 250, 255);
+}
+
+.red{
+    border-left: 4px solid rgb(254, 49, 49);
+        background-color: rgb(255, 231, 231);
+}
+
+.green{
+    border-left: 4px solid rgb(35, 192, 0);
+        background-color: rgb(220, 253, 220);
+}
