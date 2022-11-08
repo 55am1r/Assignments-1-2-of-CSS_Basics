@@ -26,3 +26,10 @@ div {
     border-left: 4px solid rgb(35, 192, 0);
         background-color: rgb(220, 253, 220);
 }
+
+.card{
+    width: 30vw;
+    padding: 0%;
+    height: 20%;
+    
+}
